@@ -1,0 +1,10 @@
+C:\Users\cerve\source\repos\tvorba obrazku\tvorba obrazku\bin\Debug\tvorba obrazku.exe.config
+C:\Users\cerve\source\repos\tvorba obrazku\tvorba obrazku\bin\Debug\tvorba obrazku.exe
+C:\Users\cerve\source\repos\tvorba obrazku\tvorba obrazku\bin\Debug\tvorba obrazku.pdb
+C:\Users\cerve\source\repos\tvorba obrazku\tvorba obrazku\obj\Debug\tvorba obrazku.csproj.AssemblyReference.cache
+C:\Users\cerve\source\repos\tvorba obrazku\tvorba obrazku\obj\Debug\tvorba_obrazku.Form1.resources
+C:\Users\cerve\source\repos\tvorba obrazku\tvorba obrazku\obj\Debug\tvorba_obrazku.Properties.Resources.resources
+C:\Users\cerve\source\repos\tvorba obrazku\tvorba obrazku\obj\Debug\tvorba obrazku.csproj.GenerateResource.cache
+C:\Users\cerve\source\repos\tvorba obrazku\tvorba obrazku\obj\Debug\tvorba obrazku.csproj.CoreCompileInputs.cache
+C:\Users\cerve\source\repos\tvorba obrazku\tvorba obrazku\obj\Debug\tvorba obrazku.exe
+C:\Users\cerve\source\repos\tvorba obrazku\tvorba obrazku\obj\Debug\tvorba obrazku.pdb
